@@ -1,0 +1,9 @@
+{
+    "label": "Architecture Choices",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "A record of the thought processes concerning architectural decisions"
+    }
+  }
+  

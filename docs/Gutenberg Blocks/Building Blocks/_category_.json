@@ -1,0 +1,9 @@
+{
+    "label": "Building Blocks",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Documentation regarding processes to build Gutenberg Blocks"
+    }
+  }
+  
