@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Block Build Enviornment'
+sidebar_label: '5 Min Gutenberg Block Development Environment Install'
 sidebar_position: 1
 ---
 
@@ -16,7 +16,7 @@ Visit [the docker desktop download page.](https://www.docker.com/products/docker
 
 ### 2. Clone the repository
 
-The repository is hosted at [link](#repository). It contains the plugin(s) that contain all the custom Gutenberg blocks.
+The repository is hosted at [link](#repository). It contains the plugin(s) that contains all the custom Gutenberg blocks.
 Clone it.
 
 ### 3. Set up the .env file
@@ -26,5 +26,6 @@ Copy the .env.example file, change the name of the copy to .env. Edit the .env f
 Navigate to the directory in a terminal. Run docker compose up.
 
 
-## How the Docker compose file works
-
+## WP CLI
+docker-compose run --rm wpcli
+https://blog.sixeyed.com/your-must-have-powershell-aliases-for-docker/

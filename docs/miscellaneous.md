@@ -1,1 +1,0 @@
-https://via.placeholder.com/344X665
